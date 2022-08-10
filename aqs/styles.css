@@ -1,0 +1,11 @@
+.aqs list, .aqs row {
+  border-radius: 1rem;
+}
+
+.aqs-node {
+  padding: 2rem;
+}
+
+.aqs-node.is-default {
+  background-color: rgba(255, 0, 0, 0.75);
+}
